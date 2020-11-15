@@ -3,7 +3,8 @@
 ## Dataset: 
 https://www.tse.jus.br/hotsites/pesquisas-eleitorais/candidatos_anos/2020.html 
 
-### Arquivo: https://bit.ly/Eleicao-SJC2020
+### Arquivo: 
+https://bit.ly/Eleicao-SJC2020
 
 ## Análise de Dados Públicos Eleitoral. 
 
